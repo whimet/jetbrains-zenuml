@@ -1,5 +1,6 @@
 #Document of Using Gradle in TravisCI:
 #https://docs.travis-ci.com/user/languages/java/#Projects-Using-Gradle
+dist: trusty
 language: java
 jdk:
   - oraclejdk8
